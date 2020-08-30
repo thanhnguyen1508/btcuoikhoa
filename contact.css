@@ -1,0 +1,22 @@
+.vietnam{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.vietnam p{
+    padding: 10px 0px;
+}
+.japan{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.japan p{
+    padding: 10px 0;
+}
+.tatca{
+    padding-left: 50px;
+}
+#p{
+    padding-top: 200px;
+}
